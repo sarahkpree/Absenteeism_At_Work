@@ -1,23 +1,28 @@
-# Hospital Acquired Infections Analysis
+# Employee Wellness & Work Absenteeism Analysis
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
 - [Recommendations](#recommendations)
 
 ### Project Overview
-Brief explanation about what the project is about. Why is it important and interesting?
+This analysis addresses three key questions related to employee wellness, smoking habits, and absenteeism management:
+
+1. **Identifying the Healthiest Employees:** A thorough examination of employee data reveals 111 individuals meeting specific health criteria, entitling them to a bonus from a $100,000 allocation. Each eligible employee is set to receive approximately $900 as recognition for their healthy lifestyle choices and low absenteeism.
+
+2. **Non-Smoker Identification:** By leveraging data insights, 686 non-smoking employees are identified, warranting a budget allocation of $983,221 from the HR department. An hourly increase rate of $0.68 is determined for these employees, aiming to incentivize and promote a smoke-free workplace environment.
+
+3. **Dashboard Development for Absenteeism Monitoring:** The analysis extends to creating a comprehensive Power BI dashboard for HR, facilitating a deeper understanding of absenteeism trends. 
 
 ### Data Sources
-The primary dataset used for this analysis is the "" file, containing detailed information about _____.
+The primary dataset used for this analysis is the "Absenteeism_at_work.csv" file, containing detailed information about employee information including absence details, lifestyle choices, and health indicators. In addition, there is a "Reasons.csv" file which lists the possible reasons for absenteeism and a "Compensation.csv" file which lists every employees hourly wage. 
 
 ### Tools
 
-- Excel - Data Cleaning
-- Azure Data Studio - Data Analysis
-- SQL - Data Visualization
-
-LINK: [Download here](https://www.google.com/)
+- Microsoft SQL Server - Data Cleaning and Analysis
+- PowerBI - Data Visualization
 
 ### Data Cleaning/Preparation
 

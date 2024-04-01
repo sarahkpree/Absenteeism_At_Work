@@ -17,7 +17,7 @@ This analysis addresses three key questions related to employee wellness, smokin
 3. **Dashboard Development for Absenteeism Monitoring:** The analysis extends to creating a comprehensive Power BI dashboard for HR, facilitating a deeper understanding of absenteeism trends. 
 
 ### Data Sources
-The primary dataset used for this analysis is the "Absenteeism_at_work.csv" file, containing detailed information about employee information including absence details, lifestyle choices, and health indicators. In addition, there is a "Reasons.csv" file which lists the possible reasons for absenteeism and a "Compensation.csv" file which lists every employees hourly wage. 
+The primary dataset used for this analysis is the "Absenteeism_at_work.csv" file, containing detailed information about the employees including absence details, lifestyle choices, and health indicators. In addition, there is a "Reasons.csv" file which lists the possible reasons for absenteeism and a "Compensation.csv" file which lists every employees' hourly wage. 
 
 ### Tools
 
@@ -33,7 +33,12 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data to answer key questions, such as:
+EDA involved exploring the employee data to answer key questions, such as:
+1. Who are the healthiest employees? "Healthy" is defined as a non-smoker, non drinker, a BMI less than 25, and absent less than the employee average absent hours.
+2. Who are the employees that do not smoke?
+3. What is the most common reason for absenteeism?
+4. Is there a particular month or day of the week with higher absenteeism rates?
+5. Do employees with higher education levels tend to have lower absenteeism rates?
 
 ### Data Analysis
 

@@ -5,6 +5,9 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [SQL Query Examples](#sql-query-examples)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -19,7 +22,7 @@ The primary dataset used for this analysis is the "Absenteeism_at_work.csv" file
 - Microsoft SQL Server - Data Cleaning and Analysis
 - PowerBI - Data Visualization
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 - Data loading and inspection
@@ -39,7 +42,7 @@ EDA involved exploring the employee data to answer key questions, such as:
 8. Do social drinkers or smokers have higher absenteeism rates compared to non-drinkers and non-smokers?
 9. How does age correlate with absenteeism levels?
 
-### SQL Queries Examples
+### SQL Query Examples
 
 Below are a few SQL queries executed during exploratory data analysis.
 

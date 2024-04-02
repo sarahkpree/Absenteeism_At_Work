@@ -8,6 +8,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [SQL Query Examples](#sql-query-examples)
+- [Results](#results)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -91,7 +92,7 @@ GROUP BY Education
 ORDER BY Average_Hours_Absent;
 ```
 
-### Results/Findings
+### Results
 
 The analysis results are summarized as follows:
 1. **Identifying Healthiest Employees:** There are 111 employees meeting specific health criteria, including being non-smokers, non-drinkers, having a BMI less than 25, and exhibiting lower absenteeism than the average. These employees are entitled to a bonus from a $100,000 allocation, with each eligible employee set to receive approximately $900 as recognition for their healthy lifestyle choices and low absenteeism.

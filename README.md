@@ -10,6 +10,7 @@
 - [SQL Query Examples](#sql-query-examples)
 - [Results](#results)
 - [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview
 The project focused on conducting Exploratory Data Analysis (EDA) on employee data to uncover insights into absenteeism patterns and employee well-being. By addressing specific questions, the analysis aimed to understand various factors influencing absenteeism and identify potential correlations within the dataset.
@@ -116,15 +117,19 @@ The analysis results are summarized as follows:
 ### Recommendations
 
 Based on the analysis, the following steps are recommended:
-1. Recommendation 1
-2. Recommendation 2
-3. Recommendation 3
+
+1. **Promote Health and Wellness Programs:**
+   Given the benefits associated with healthy lifestyle choices, such as lower absenteeism rates and improved employee well-being, consider implementing and promoting health and wellness programs within the organization. 
+
+2. **Flexible Work Arrangements:**
+   Recognizing Monday as the most common day for employee absences, consider implementing flexible work arrangements, such as telecommuting, to accommodate employees.
+
+3. **Employee Engagement Initiatives:** Boost employee engagement by implementing recognition programs, offering career development opportunities, and promoting work-life balance initiatives. These efforts can uplift morale and decrease absenteeism among employees.
 
 ### Limitations
-What has affected the quality of your analysis?
+- Although correlations between variables have been noted, determining causal relationships necessitates additional investigation.
+- The analysis findings may not be universally applicable across all organizations or contexts.
+- The analysis is based on certain assumptions and interpretations of the data. For instance, the definition of "healthiest employees" may vary among organizations, and the interpretation of absenteeism patterns may be subjective.
 
-### References
-
-Links to any pages used for help. 
 
 

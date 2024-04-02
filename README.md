@@ -94,10 +94,24 @@ ORDER BY Average_Hours_Absent;
 ### Results/Findings
 
 The analysis results are summarized as follows:
-1. Result 1
-2. Result 2
-3. Result 3
+1. **Identifying Healthiest Employees:** There are 111 employees meeting specific health criteria, including being non-smokers, non-drinkers, having a BMI less than 25, and exhibiting lower absenteeism than the average. These employees are entitled to a bonus from a $100,000 allocation, with each eligible employee set to receive approximately $900 as recognition for their healthy lifestyle choices and low absenteeism.
 
+2.  **Non-Smoker Identification:** There are 686 non-smoking employees. With a budget allocation of $983,221 from the HR department, an hourly increase rate of $0.68 was determined for these employees, aiming to incentivize a smoke-free workplace environment.
+   
+3. **Reasons for Absenteeism:** The top 3 reasons for employee absenteeism are medical consultation, dental consultation, and physiotherapy.
+   
+4. **Temporal Analysis of Absenteeism:** Examination of absenteeism patterns throughout the week revealed Monday as the predominant day for employee absences, however with marginal differences observed across the remaining week days. Additionally, our analysis identified March as the month with the most absences.
+
+5. **Education Level and Absenteeism:** The analysis revealed that employees with higher education levels tend to exhibit lower average absenteeism hours. However, the difference in absenteeism rates among the different education levels is minimal.
+
+6. **Impact of Commute Distance:** There does not appear to be a relationship between commute distance and absenteeism.
+
+7. **Tenure and Absenteeism:** The length of employment does not appear to impact absenteeism.
+
+8. **Effect of Social Habits:** Absenteeism rates between social drinkers/smokers and non-drinkers/non-smokers do not appear to be significantl.
+
+9. **Correlation between Age and Absenteeism:** Middle-aged employees, particularly those in their 50s, exhibit notably higher average absenteeism compared to their younger counterparts. However, it is probable that there are additional underlying factors influencing these absenteeism rates.
+   
 ### Recommendations
 
 Based on the analysis, the following steps are recommended:

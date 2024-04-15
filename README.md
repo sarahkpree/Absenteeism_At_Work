@@ -8,12 +8,13 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [SQL Query Examples](#sql-query-examples)
+- [Data Visualization](#data-visualization)
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
 ### Project Overview
-The project focused on conducting Exploratory Data Analysis (EDA) on employee data to uncover insights into absenteeism patterns and employee well-being. By addressing specific questions, the analysis aimed to understand various factors influencing absenteeism and identify potential correlations within the dataset.
+The project focused on conducting Exploratory Data Analysis (EDA) on employee data to uncover insights into absenteeism patterns and employee well-being. By addressing specific questions, the analysis aimed to understand various factors influencing absenteeism and identify potential correlations within the dataset. In addition, a PowerBI dashboard was created to further understand absenteeism on work.
 
 ### Data Sources
 The primary dataset used for this analysis is the "Absenteeism_at_work.csv" file, containing detailed information about the employees including absence details, lifestyle choices, and health indicators. In addition, there is a "Reasons.csv" file which lists the possible reasons for absenteeism and a "Compensation.csv" file which lists every employees' hourly wage. 
@@ -92,6 +93,13 @@ FROM AbsenteeismAtWork
 GROUP BY Education
 ORDER BY Average_Hours_Absent;
 ```
+
+### Data Visualization
+
+The PowerBI dashboard offers a comprehensive snapshot of absenteeism trends within the organization. The dashboard presents employee demographics, insights into absenteeism patterns over time, highlights common reasons for absenteeism and explores potential correlation.
+
+<img width="631" alt="Screen Shot 2024-04-15 at 11 55 22 AM" src="https://github.com/sarahkpree/Absenteeism_At_Work/assets/61251211/5a1b92d9-af8c-4c77-8778-fc1350e02eb5">
+
 
 ### Results
 
